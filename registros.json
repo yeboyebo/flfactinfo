@@ -1,3 +1,52 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/flcontppal",
+            "value": {
+                "flfactinfo": {
+                    "factinfo_general": null,
+                    "i_albaranescli": {
+                        "formRecord": "i_albaranescli",
+                        "form": "i_masteralbaranescli"
+                    },
+                    "i_albaranesprov": {
+                        "formRecord": "i_albaranesprov",
+                        "form": "i_masteralbaranesprov"
+                    },
+                    "i_facturascli": {
+                        "formRecord": "i_facturascli",
+                        "form": "i_masterfacturascli"
+                    },
+                    "i_facturasprov": {
+                        "formRecord": "i_facturasprov",
+                        "form": "i_masterfacturasprov"
+                    },
+                    "i_pedidoscli": {
+                        "formRecord": "i_pedidoscli",
+                        "form": "i_masterpedidoscli"
+                    },
+                    "i_pedidosprov": {
+                        "formRecord": "i_pedidosprov",
+                        "form": "i_masterpedidosprov"
+                    },
+                    "i_presupuestoscli": {
+                        "formRecord": "i_presupuestoscli",
+                        "form": "i_masterpresupuestoscli"
+                    },
+                    "i_reciboscli": {
+                        "formRecord": "i_reciboscli",
+                        "form": "i_masterreciboscli"
+                    },
+                    "i_inventario": {
+                        "formRecord": "i_inventario",
+                        "form": "i_masterinventario"
+                    },
+                    "i_remesascli": null,
+                    "i_transstock": null,
+                    "i_ficheros": null
+                }
+            }
+        }
+    ]
 }

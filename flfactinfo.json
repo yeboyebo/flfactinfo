@@ -17,7 +17,112 @@
                 "name": "registros.json"
             }
         ],
-        "addFile": [],
+        "addFile": [
+            {
+                "name": "model_flfactinfo__factinfo_general.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__factinfo_general_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_albaranescli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_albaranescli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_albaranesprov.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_albaranesprov_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_facturascli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_facturascli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_facturasprov.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_facturasprov_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_pedidoscli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_pedidoscli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_pedidosprov.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_pedidosprov_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_presupuestoscli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_presupuestoscli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_reciboscli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_reciboscli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_remesascli.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_remesascli_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_transstock.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_transstock_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_inventario.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_inventario_def.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_ficheros.py",
+                "path": "models/flfactinfo/"
+            },
+            {
+                "name": "model_flfactinfo__i_ficheros_def.py",
+                "path": "models/flfactinfo/"
+            }
+        ],
         "deleteFile": []
     },
     "name": "flfactinfo"

@@ -1,3 +1,25 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/models/flfactppal",
+            "value": {
+                "flfactinfo": {
+                    "factinfo_general": null,
+                    "i_albaranescli": null,
+                    "i_albaranesprov": null,
+                    "i_facturascli": null,
+                    "i_facturasprov": null,
+                    "i_pedidoscli": null,
+                    "i_pedidosprov": null,
+                    "i_presupuestoscli": null,
+                    "i_reciboscli": null,
+                    "i_remesascli": null,
+                    "i_transstock": null,
+                    "i_inventario": null,
+                    "i_ficheros": null
+                }
+            }
+        }
+    ]
 }
