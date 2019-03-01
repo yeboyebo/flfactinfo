@@ -1,11 +1,7 @@
 {
-    "fun_aq": "fun_oficial",
+    "fun_aq": null,
     "fk": "True",
     "dependencias": [
-        {
-            "key": "baseparche",
-            "version": "v1.0"
-        },
         {
             "key": "flfacturac",
             "version": "v1.0"
