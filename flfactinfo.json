@@ -121,6 +121,10 @@
             {
                 "name": "model_flfactinfo__i_ficheros_def.py",
                 "path": "models/flfactinfo/"
+            },
+            {
+                "path": "models/flfactinfo/",
+                "name": "model_flfactinfo__flfactinfo_def.py"
             }
         ],
         "deleteFile": []
