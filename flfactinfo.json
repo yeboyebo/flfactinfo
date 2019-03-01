@@ -125,6 +125,18 @@
             {
                 "path": "models/flfactinfo/",
                 "name": "model_flfactinfo__flfactinfo_def.py"
+            },
+            {
+                "name": "app_informes____init__.py",
+                "path": "apps/informes/"
+            },
+            {
+                "name": "app_informes__menu_informes.json",
+                "path": "apps/informes/templates/informes/"
+            },
+            {
+                "name": "app_informes__views_informes.py",
+                "path": "apps/informes/viewset/"
             }
         ],
         "deleteFile": []

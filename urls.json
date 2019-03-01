@@ -2,6 +2,13 @@
     "modifications": [
         {
             "type": "insertAfterNode",
+            "path": "/principal",
+            "value": {
+                "informes": {}
+            }
+        },
+        {
+            "type": "insertAfterNode",
             "path": "/models/flfactppal",
             "value": {
                 "flfactinfo": {
